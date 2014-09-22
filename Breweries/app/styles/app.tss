@@ -1,0 +1,6 @@
+".icomoon": {
+	font: {
+		fontFamily: 'icomoon',
+		fontSize: '24dp'
+	}
+}

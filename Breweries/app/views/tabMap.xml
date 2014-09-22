@@ -1,0 +1,13 @@
+<Alloy>
+	<Tab id="mapTab" title="Map">
+		<Window class="container" id="win" title="Breweries">
+			<Module id="map" module="ti.map" method="createView" platform="ios,android"/>
+			<View id="buttonStrip">
+				<ImageView id="brewery" class="btn"/>
+				<ImageView id="cidery" class="btn"/>
+				<ImageView id="distillery" class="btn"/>
+				<ImageView id="winery" class="btn"/>
+			</View>
+		</Window>
+	</Tab>
+</Alloy>

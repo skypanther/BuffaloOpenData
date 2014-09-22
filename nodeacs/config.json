@@ -1,0 +1,18 @@
+{
+  "routes":
+  [
+    { "path": "/breweries", "callback": "application#getBreweries" },
+    { "path": "/cideries", "callback": "application#getCideries" },
+    { "path": "/distilleries", "callback": "application#getDistilleries" },
+    { "path": "/wineries", "callback": "application#getWineries" },
+    { "path": "/brewery", "callback": "application#brewery" }
+  ],
+  "filters":
+  [
+  	 { "path": "/", "callback": "" }
+  ],
+  "websockets":
+  [
+  	{ "event": "", "callback": ""}
+  ]
+}

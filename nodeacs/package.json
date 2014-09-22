@@ -1,0 +1,25 @@
+{
+  "name": "buffaloopendata",
+  "version": "0.1.0",
+  "description": "Data from https://data.ny.gov/Economic-Development/Wineries-Breweries-and-Distilleries-Map/c2hv-vmqn NY State Liquor Authority quarterly list of all active licensees in NYS filtered by Winery and Brewery specific License Types.",
+  "framework": "mvc",
+  "bodyParser": true,
+  "main": "app.js",
+
+  "keywords": [
+  ],
+  "author": "Tim Poulsen, tpoulsen@appcelerator.com",
+  "maintainers": [
+  ],
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "preferGlobal": false,
+  "dependencies": {
+  },
+  "license":"MIT",
+  "private": true
+}

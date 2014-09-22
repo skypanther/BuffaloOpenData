@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="caffeinaLoaderMask" class="caffeinaLoaderMask">
+		<View id="caffeinaLoaderView" class="caffeinaLoaderView">
+			<View id="caffeinaLoaderViewInset" class="caffeinaLoaderViewInset">
+				<ActivityIndicator id="caffeinaLoaderIndicator" class="caffeinaLoaderIndicator" />
+				<ImageView id="caffeinaLoaderImages" class="caffeinaLoaderImages" />
+				<Label id="caffeinaLoaderLabel" class="caffeinaLoaderLabel" />
+			</View>
+		</View>
+	</Window>
+</Alloy>

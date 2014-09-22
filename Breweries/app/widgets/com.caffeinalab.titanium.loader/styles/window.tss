@@ -1,0 +1,33 @@
+".caffeinaLoaderMask": {
+	backgroundColor: "#6000",
+	backgroundImage: null,
+	opacity: 1.0,
+	modal: false,
+	fullscreen: false
+},
+".caffeinaLoaderView":{
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	backgroundColor: '#D000',
+	borderRadius: 10
+},
+".caffeinaLoaderViewInset": {
+	top: 20,
+	right: 40,
+	bottom: 20,
+	left: 40,
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	layout: 'vertical'
+},
+".caffeinaLoaderIndicator": {
+	style: Ti.UI.iPhone.ActivityIndicatorStyle.BIG,
+	color: '#fff'
+},
+".caffeinaLoaderLabel": {
+	top: 20,
+	color: '#fff',
+	textAlign: Ti.UI.TEXT_ALIGNMENT_CENTER
+},
+".caffeinaLoaderImages":{
+}

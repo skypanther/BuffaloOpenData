@@ -1,0 +1,7 @@
+<Alloy>
+	<TabGroup>
+		<ActionBar platform="android" id="actionbar" title="NYS Breweries"/>
+		<Require id="tab1" src="tabMap"/>
+		<Require id="tab2" src="tabAbout"/>
+	</TabGroup>
+</Alloy>

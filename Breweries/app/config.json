@@ -1,0 +1,15 @@
+{
+  "global": {
+    "nodeacs": "https://6d0e9da395c801fdb282d90a8ea1549e83353bba.cloudapp.appcelerator.com"
+  },
+  "env:development": {},
+  "env:test": {},
+  "env:production": {},
+  "os:android": {},
+  "os:blackberry": {},
+  "os:ios": {},
+  "os:mobileweb": {},
+  "dependencies": {
+    "com.caffeinalab.titanium.loader": "*"
+  }
+}

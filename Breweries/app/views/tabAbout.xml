@@ -1,0 +1,9 @@
+<Alloy>
+	<Tab title="About">
+		<Window title="About">
+			<View class="container">
+				<WebView id="webview"/>
+			</View>
+		</Window>
+	</Tab>
+</Alloy>

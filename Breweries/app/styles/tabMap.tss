@@ -1,0 +1,37 @@
+
+".container" : {
+
+}
+"#map": {
+	region: {
+		latitude:42.9047, longitude:-78.8494,
+		latitudeDelta:2,
+		longitudeDelta:2
+	},
+	animate:true,
+	regionFit:true,
+	userLocation:true
+}
+
+"#buttonStrip": {
+	top: -8,
+	right: -8,
+	width: 44,
+	height: Ti.UI.SIZE,
+	backgroundColor: 'white',
+	borderWidth: 1,
+	borderColor: 'black',
+	borderRadius: 8,
+	layout: "vertical",
+	zIndex: 2
+}
+".btn": {
+	top: 5,
+	height: 32,
+	width: 32,
+	left: 2
+}
+"#brewery": { image: '/mapicons/brewery.png', top: 8 }
+"#cidery": { image: '/mapicons/cidery.png' }
+"#distillery": { image: '/mapicons/distillery.png' }
+"#winery": { image: '/mapicons/winery.png' }
