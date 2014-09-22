@@ -1,0 +1,1 @@
+exports.breweryDbApiKey = 'BREWERY_DB_API_KEY';
