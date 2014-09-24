@@ -1,6 +1,5 @@
-
-".container" : {
-
+"#mapTab[platform=ios]": {
+	icon: "compass.png"
 }
 "#map": {
 	region: {

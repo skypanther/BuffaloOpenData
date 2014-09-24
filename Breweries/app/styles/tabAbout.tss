@@ -1,6 +1,5 @@
-
-".container" : {
-
+"#tabAbout[platform=ios]": {
+	icon: "info.png"
 }
 "#webview" : {
 	backgroundColor: 'white',

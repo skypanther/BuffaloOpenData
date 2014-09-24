@@ -1,5 +1,5 @@
 <Alloy>
-	<Tab title="About">
+	<Tab id="tabAbout" title="About">
 		<Window title="About">
 			<View class="container">
 				<WebView id="webview"/>
